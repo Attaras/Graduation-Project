@@ -38,9 +38,7 @@ The library that was used was Keras.
 The neural network model was implemented into the arduino and was used to calculate the required angle for the muscle signals in real time.
 
 ```arduino
-
-        Graduation-Project/Neural_Network_Arduino_Implementation.ino
-      
+   Graduation-Project/Neural_Network_Arduino_Implementation   
 ```
 //youtube link
 

@@ -25,8 +25,10 @@ Both the muscle signal and the angle readings were taken concurrently.
 The siganls were taken to excel where they were filtered.
 The gyroscope gave back very precise readings, with 2 decimal points which were ceiled/floored to make mapping easier for the neural net.
 
-//before filter/smoothed
-//after
+###before smoothing:
+![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/beforefiltering.png)
+###after smoothing:
+![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/afterfiltering.png)
 
 ## Neural Network:
 The neural network was trained to output angle commands to the motors in response to muscle signals.

@@ -42,6 +42,9 @@ The library that was used was Keras.
 ## Actuation Circuit:
 The neural network model was implemented into the arduino and was used to calculate the required angle for the muscle signals in real time.
 
+![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Actuation.png)
+
+- The Code:
 ```arduino
    Graduation-Project/Neural_Network_Arduino_Implementation   
 ```

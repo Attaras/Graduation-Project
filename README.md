@@ -19,7 +19,7 @@ Both the muscle signal and the angle readings were taken concurrently.
 
 
 ```arduino
-Reading CODE (ARDUINO)
+   Data_Acquisition_Code
 ```
 ## Analysis with Excel:
 The siganls were taken to excel where they were filtered.

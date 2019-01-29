@@ -17,7 +17,7 @@ Both the muscle signal and the angle readings were taken concurrently.
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Reading%20Circuit.png)
 
-
+- The Code
 ```arduino
    Graduation-Project/Data_Acquisition_Code.ino
 ```
@@ -32,7 +32,7 @@ The gyroscope gave back very precise readings, with 2 decimal points which were 
 The neural network was trained to output angle commands to the motors in response to muscle signals.
 The library that was used was Keras.
 
-//Neural network pic
+![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/nn.png)
 
 ## Actuation Circuit:
 The neural network model was implemented into the arduino and was used to calculate the required angle for the muscle signals in real time.

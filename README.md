@@ -15,7 +15,7 @@ In this repository i put all the code i'll explain the workings of the project a
 
 Both the muscle signal and the angle readings were taken concurrently.
 
-//reading circuit
+![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Reading%20Circuit.png)
 
 
 ```arduino

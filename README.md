@@ -1,5 +1,5 @@
 # Graduation-Project
-An intelligent robotic leg actuated via muscle signals using a neural network.
+An intelligent robotic leg that actuates by reading specified muscle signals and figuring out the required angle using a trained neural network.
 
 # EMG Controlled Prosthetic Robot Leg
 

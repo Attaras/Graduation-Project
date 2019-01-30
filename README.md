@@ -5,6 +5,9 @@ An intelligent robotic leg actuated via muscle signals using a neural network.
 
 In this repository i put all the code i'll explain the workings of the project and the all the implementations involved.
 
+- Video of the Robotic Limb:
+https://youtu.be/keW9soVlteE
+
 ## Components Used:
 - Arduino Uno Board
 - EMG V3 Muscle Sensors
@@ -18,9 +21,8 @@ Both the muscle signal and the angle readings were taken concurrently.
 ![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Reading%20Circuit.png)
 
 - The Code
-```arduino
-   Graduation-Project/Data_Acquisition_Code.ino
-```
+   The code is in the path: Graduation-Project/Data_Acquisition_Code.ino
+
 ## Analysis with Excel:
 The siganls were taken to excel where they were filtered.
 The gyroscope gave back very precise readings, with 2 decimal points which were ceiled/floored to make mapping easier for the neural net.
@@ -45,10 +47,7 @@ The neural network model was implemented into the arduino and was used to calcul
 ![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Actuation.png)
 
 - The Code:
-```arduino
-   Graduation-Project/Neural_Network_Arduino_Implementation   
-```
-//youtube link
+   The code is in the path: Graduation-Project/Neural_Network_Arduino_Implementation   
 
 ## Contributing
 This prosthetic leg was created as my graduation project with my project pair Tamim.

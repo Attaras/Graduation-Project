@@ -1,11 +1,14 @@
 # Graduation-Project
 An intelligent robotic leg that actuates by reading specified muscle signals and figuring out the required angle using a trained neural network.
+
 - Video of the Robotic Limb:
 https://youtu.be/keW9soVlteE
 
 # EMG Controlled Prosthetic Robot Leg
 
 In this repository i put all the code i'll explain the workings of the project and the all the implementations involved.
+
+![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif.gif?raw=true)
 
 
 ## Components Used:

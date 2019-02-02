@@ -10,11 +10,11 @@ In this repository i put all the code i'll explain the workings of the project a
 
 ![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif.gif?raw=true)
 
-## The entire leg
+## The Entire Leg
 
 ![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif2.gif?raw=true)
 
-## Components Used:
+## Notable Components Used:
 - Arduino Uno Board
 - EMG V3 Muscle Sensors
 - High Torque Servo Motor

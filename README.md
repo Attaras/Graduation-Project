@@ -1,4 +1,4 @@
-# EMG Controlled Prosthetic Robot Leg
+# EMG Controlled Prosthetic Limb
 
 A robotic leg that reads muscle signals and actuates accordingly, it figures out the required angle using a trained neural network.
 

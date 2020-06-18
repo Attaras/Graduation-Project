@@ -4,9 +4,6 @@ A robotic leg that reads muscle signals and actuates accordingly, it figures out
 
 ![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif.gif?raw=true)
 
-- Video of the Robotic Limb:
-https://youtu.be/keW9soVlteE
-
 ## The Entire Leg
 
 ![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif2.gif?raw=true)

@@ -2,7 +2,7 @@
 
 A robotic leg that reads muscle signals and actuates accordingly, it figures out the required angle using a trained neural network.
 
-![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif.gif?raw=true)
+![alt text](grad%20gif.gif?raw=true)
 
 ## The Entire Leg
 

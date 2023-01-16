@@ -6,7 +6,7 @@ A robotic leg that reads muscle signals and actuates accordingly, it figures out
 
 ## The Entire Leg
 
-![alt text](https://github.com/Attaras/Graduation-Project/blob/master/grad%20gif2.gif?raw=true)
+![alt text](grad%20gif2.gif?raw=true)
 
 ## Notable Components:
 - Arduino Uno board
@@ -18,7 +18,7 @@ A robotic leg that reads muscle signals and actuates accordingly, it figures out
 
 The muscle signal and the angle readings were taken concurrently.
 
-![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Reading%20Circuit.png)
+![alt text](Reading%20Circuit.png)
 
 -   The code is in the path: Graduation-Project/Data_Acquisition_Code.ino
 
@@ -28,24 +28,21 @@ The gyroscope gave back very precise readings, with 2 decimal points which were 
 
 - Some portion before smoothing:
 
-![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/beforefiltering.png)
+![alt text](beforefiltering.png)
 
 - The same portion after smoothing:
 
-![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/afterfiltering.png)
+![alt text](afterfiltering.png)
 
 ## Neural Network:
 The neural network was trained to output angle commands to the motors in response to muscle signals.
 Keras was used to implement this.
 
-![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/nn.png)
+![alt text](nn.png)
 
 ## Actuation Circuit:
 The resulting NN model was implemented into the arduino and was used to calculate the required angle for the muscle signals in real time.
 
-![alt text](https://raw.githubusercontent.com/Attaras/Graduation-Project/master/Actuation.png)
+![alt text](Actuation.png)
 
 - The code is in the path: Graduation-Project/Neural_Network_Arduino_Implementation   
-
-## Contributing
-This prosthetic leg was created as my graduation project with my project pair Tamim.
